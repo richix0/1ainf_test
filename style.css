@@ -1,0 +1,99 @@
+ul li{
+    display:inline;
+}
+h2{
+    padding-top: 6px;
+    padding-right: 3px;
+    padding-bottom: 0;
+    padding-left: 0;
+}
+
+.header {
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(170, 170, 170);
+    border: 1px solid #0004ff;
+    margin: 30px 0 0 0;
+}
+
+.main-content {
+    width: 75%;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid cornflowerblue;
+    margin: 30px auto 0 auto;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.header a{
+    color: rgb(0, 0, 0);
+}
+
+.nav {
+      text-align: center;
+}
+
+.photos img {
+    width: 60%;
+}
+
+#big {
+    width: 23%;
+}
+
+#big2{
+    width: 10%;
+}
+
+.header img {
+    width: 10%;
+}  
+
+.header {
+    text-align: center;
+}
+.nav {
+    
+}
+
+label,input{
+    display: block;
+}
+
+label{
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+input{
+    width: 483px;
+    margin-bottom: 1px;
+}
+
+input [type=submit]{
+    width: 163px;
+    font-size: 20px;
+}
+
+input[type=text]{
+    border: 2px solid #7facaa;
+    font-size: 24px;
+    padding: 7px;
+}
+
+textarea {
+    width: 483px;
+    height: 80px;
+    padding: 7px;
+    border: 2px solid #7facaa;
+    margin-bottom: 10px;
+    font-size: 24px;
+    
+}
